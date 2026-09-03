@@ -27,5 +27,4 @@ Optimized natively for standard low-sUNC environments (e.g., Solara). Functional
 
 Execute the script directly via your client console or auto-execution directory:
 
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cracka-7/roblox/main/source.lua"))()
+### yo can i get a star rate from you? viewer?
