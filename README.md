@@ -14,18 +14,18 @@ Optimized natively for standard low-sUNC environments (e.g., Solara). Functional
 
 ---
 
-### Core Mechanics
+### Key Features
 
-- **Trans Ghost (FE Invisible):** Front-End safe replication bypass that shifts the player into a ghost state, desyncing server-side visibility while maintaining client-side physics and control.
-- **Winding Ghost (Flight):** Camera-oriented directional flight system bound to WASD, Space, and Left Shift.
+- **Trans Ghost (FE Invisible):** Front-End safe replication bypass shifting the character into a ghost state, desyncing server-side visibility while maintaining client-side physics and control.
+- **Winding Ghost (Flight Engine):** Camera-oriented directional flight mechanics bound to standard movement inputs (WASD, Space, Left Shift).
 - **Dynamic Speed Calibration:** Integrated geometric slider allowing instantaneous flight velocity adjustments from 10 to 200 units.
-- **Geometric Minimal UI:** Strict zero-corner architecture with high-contrast slate aesthetics, collapsible icon minimization, and amplified feedback sound events.
+- **Geometric Minimal UI:** Strict zero-corner architecture with high-contrast slate aesthetics, collapsible widget minimization, and amplified feedback audio.
 
 ---
 
-### Execution
+### Direct Execution
 
-Execute the utility directly in your client environment:
+Execute the script directly via your client console or auto-execution directory:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cracka-7/roblox/main/source.lua"))()
